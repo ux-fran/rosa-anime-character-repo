@@ -8,7 +8,7 @@ This project is documentation of project to create *Rosa*, a 3D modeled anime ch
 ## 📌 What's Inside
 
 - **Project Progress**:
-  - Explore the [Backlog](https://github.com/users/ux-fran/projects/65) for detailed steps or track my progress with the [Kanban Board](https://github.com/users/ux-fran/projects/65/views/2).
+  - Explore the [Backlog](https://github.com/users/ux-fran/projects/68) for detailed steps or track my progress with the [Kanban Board](https://github.com/users/ux-fran/projects/68/views/2).
 - **Key Milestones**:
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
