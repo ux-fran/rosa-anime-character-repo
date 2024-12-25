@@ -1,4 +1,4 @@
-# Welcome to the Rose Anime Character Repository!
+# Welcome to the Rosa Anime Character Repository!
 _Project status: Finished_
 
 This project is documentation of project to create *Rosa*, a 3D modeled anime character. 🎨✨ Rosa was created by following along [Grant Abbit's - Anime Character Course](https://www.youtube.com/watch?v=KckpKgQjfyc) and given my own twist. Here, you'll find everything related to this project—from progress updates to resources and the final render!
