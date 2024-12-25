@@ -1,6 +1,26 @@
-# Rosa Anime Character Project
+# Welcome to the Rose Anime Character Repository!
+_Project status: Finished_
 
-This project is an ongoing effort to create *Rosa*, a 3D modeled anime character. Rosa was created by following along [Grant Abbit's - Anime Character Course](https://www.youtube.com/watch?v=KckpKgQjfyc) and given my own twist.
+This project is documentation of project to create *Rosa*, a 3D modeled anime character. 🎨✨ Rosa was created by following along [Grant Abbit's - Anime Character Course](https://www.youtube.com/watch?v=KckpKgQjfyc) and given my own twist. Here, you'll find everything related to this project—from progress updates to resources and the final render!
+
+---
+
+## 📌 What's Inside
+
+- **Project Progress**:
+  - Explore the [Backlog](https://github.com/users/ux-fran/projects/65) for detailed steps or track my progress with the [Kanban Board](https://github.com/users/ux-fran/projects/65/views/2).
+- **Key Milestones**:
+  - Milestone breakdowns with links to specific tasks or achievements.
+- **Resources**:
+  - Access any related files, references, or additional materials.
+
+---
+
+## 🖼️ A render of the Project
+
+![Anime fantasy fight6](https://github.com/user-attachments/assets/babf8e91-4fe6-4c7e-a3c1-41661c625dad)
+
+---
 
 ### Project Goals
 
@@ -35,8 +55,29 @@ You can check out the [Darius project here](https://github.com/ux-fran/darius-ma
 
 For a detailed overview of this project, check out the corresponding project on GitHub: [Rosa- Anime girl character](https://github.com/users/ux-fran/projects/68/views/1).
 
-## Resources
-- Rosa Project Wiki (to be added soon)
-- Blog Post (to be added soon)
+---
+
+## 🌐 Explore More
+
+Looking for a full overview of all my Blender projects? Head over to the **[Blender-Projects-Repo Wiki](https://github.com/ux-fran/blender-projects-main-hub-repo/wiki)**—the central hub where I showcase all my projects and share insights about my Blender journey. 🛠️✨
 
 ---
+
+## 🔗 Find Me Online
+
+Stay updated on my creative journey and follow me on my other platforms:
+
+- **Blog**: [Fran43CG](https://www.fran43cg.com)  
+- **YouTube**: [Fran43CG Channel](https://www.youtube.com/@Fran43CG)  
+- **Instagram**: [@Fran43CG](https://www.instagram.com/fran43cg/)  
+
+---
+
+## 🤝 Get Involved
+
+Feel free to explore, share feedback, or suggest ideas. While this repository is mainly a showcase of my learning journey, I'm always open to constructive input and collaboration! 😊
+
+---
+
+### Thank you for visiting the Rosa Anime Girl repository! 🎉
+
