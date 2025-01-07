@@ -1,14 +1,55 @@
-# Welcome to the Rosa Anime Character Repository!
-_Project status: Finished_
+# Welcome to the Rosa Anime Character Repository! 🎨✨
 
-This project is documentation of project to create *Rosa*, a 3D modeled anime character. 🎨✨ Rosa was created by following along [Grant Abbit's - Anime Character Course](https://www.youtube.com/watch?v=KckpKgQjfyc) and given my own twist. Here, you'll find everything related to this project—from progress updates to resources and the final render!
+🔙 _Back to my Blender projects main hub_: [Fran's Blender Projects Hub](https://github.com/ux-fran/blender-projects-main-hub-repo)
+
+_Project Status_: **Finished** 🎉  
+_Repository_: **[Rosa Anime Character Repository](https://github.com/ux-fran/rosa-anime-character-repo)**  
+_Project Progress_: **[Rosa Progress](https://github.com/users/ux-fran/projects/68)**  
+
+This repository documents the creation of **Rosa**, a 3D modeled anime character inspired by [Grant Abbitt's Anime Character Course](https://www.youtube.com/watch?v=KckpKgQjfyc). Rosa was given my own creative twist, focusing on character modeling, topology, UV unwrapping, and texturing. Here, you'll find everything related to this project—from progress updates to resources and the final render!
 
 ---
 
-## 📌 What's Inside
+## 🖼️ Final Render
+
+Here’s the final render of the **Rosa Anime Character** project!
+
+![Anime fantasy fight6](https://github.com/user-attachments/assets/babf8e91-4fe6-4c7e-a3c1-41661c625dad)
+
+---
+
+## 🧩 Project Overview
+
+- **Goal**: To model a complete anime-style character with clean topology and create a scene that tells a story.
+- **Art Style**: Stylized anime character with a focus on expressive features and storytelling.
+- **Tools Used**: Blender for modeling, UV unwrapping, texturing, and posing.
+
+---
+
+## 📚 Learning Goals
+
+This project provided a valuable opportunity to explore key aspects of character creation, including:
+
+1. **Modeling**: Creating a character from scratch with clean topology, focusing on edge flow and poles.
+2. **UV Unwrapping**: Learning best practices for unwrapping complex models to prepare for texturing.
+3. **Texture Painting**: Developing skills in painting materials like skin, hair, and clothing.
+4. **Rigging and Weight Painting**: Exploring how to rig characters and use weight painting to achieve natural deformations.
+5. **Posing and Storytelling**: Learning how to pose the character and create a visually appealing scene with narrative depth.
+
+---
+
+## 🎮 Side Quest: The Rosa Project
+
+The **Rosa Project** was a side quest I took on during my work on the **Darius Sculpt**. While sculpting Darius, I realized I needed to improve my understanding of **topology** and **rigging**, so I paused to complete this project. The lessons learned from modeling Rosa directly impacted my work on Darius.
+
+Curious about Darius? Check out the project here: [Darius Male Hero Sculpt](https://github.com/ux-fran/darius-male-hero-sculpt-repo).
+
+---
+
+## 📌 What's Inside This Repository
 
 - **Project Progress**:
-  - Explore the [Backlog](https://github.com/users/ux-fran/projects/68) for detailed steps or track my progress with the [Kanban Board](https://github.com/users/ux-fran/projects/68/views/2).
+  - Explore the [Backlog](https://github.com/users/ux-fran/projects/68) for detailed steps or track my progress with the [Kanban Board (a.k.a. ToDo list)](https://github.com/users/ux-fran/projects/68/views/2).
 - **Key Milestones**:
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
@@ -16,50 +57,15 @@ This project is documentation of project to create *Rosa*, a 3D modeled anime ch
 
 ---
 
-## 🖼️ A render of the Project
+## 🙏 Credits
 
-![Anime fantasy fight6](https://github.com/user-attachments/assets/babf8e91-4fe6-4c7e-a3c1-41661c625dad)
-
----
-
-### Project Goals
-
-- **Character modeling**: In stead of sculpting, I wanted to learn how to model a character from scratch. Learning about topology, edge flow, poles, as well as how to UV-unwrap and texture paint the model.
-- **Creating a scene**: In stead of just posing the model, I wanted to create a scene that tells a story.
-
-
-### Learning Goals
-
-As part of this project, I'm using Rosa as a way to deepen my skills in various aspects of 3D character creation, specifically focusing on the following areas:
-
-1. **Improving Modeling in Blender**: Focusing on face count, topology, edge flow and how and when to create poles.
-2. **Understanding Workflow**: 
-   - **Topology / Retopology**: Learning how to create clean topology.
-   - **Clothing/Armor Creation**: Gaining skills in modeling clothing and armor, focusing clean topology.
-   - **UV Unwrapping**: Learning the best practices for unwrapping complex models in preparation for texturing.
-   - **Texture Painting**: Developing skills in texture painting for creating materials like skin, armor, and hair.
-   - **Rigging with Weight Painting**: Exploring rigging and how weight painting influences the deformations in character animation.
-   - **Posing**: Learning how to pose the character for animations and visual storytelling.
-
-### Side Quest
-
-This project, was a "side quest" to explore character creation in more depth while working on **Darius the male hero** sculpt. Through this project, I gained a better understanding of topology, and rigging, and I'm applying the lessons learned back into the creation of Darius.
-
-You can check out the [Darius project here](https://github.com/ux-fran/darius-male-hero-sculpt-repo).
-
-### Process Overview
-
-- **Character Modeling**: During the creation of Darius, I got curious about how to go about topology of a character. Before I would go further with sculpting Darius I wanted to learn about creating topology myself.
-- **Rigging**: I played around with rigging with my first sculpt (Emilia) and the characters of the Bax Game Design, but I wanted to learn more about it. This topic is also covered by Grant in his course. 
-- **Next Steps**: After this model, I'm went back to the Darius sculpt. Trying to encorporate the things I learned into the sculpt.
-
-For a detailed overview of this project, check out the corresponding project on GitHub: [Rosa- Anime girl character](https://github.com/users/ux-fran/projects/68/views/1).
+- **Special Credit to Grant Abbitt**: The course by Grant Abbitt provided invaluable guidance for this project. Check out his work at [Grant Abbitt's YouTube Channel](https://www.youtube.com/c/GrantAbbitt).
 
 ---
 
 ## 🌐 Explore More
 
-Looking for a full overview of all my Blender projects? Head over to the **[Blender-Projects-Repo Wiki](https://github.com/ux-fran/blender-projects-main-hub-repo/wiki)**—the central hub where I showcase all my projects and share insights about my Blender journey. 🛠️✨
+Looking for a full overview of all my Blender projects? Head over to the **[Blender Projects Main Hub](https://github.com/ux-fran/blender-projects-main-hub-repo)**—the central hub where I showcase all my projects and share insights about my Blender journey. 🛠️✨
 
 ---
 
@@ -79,5 +85,4 @@ Feel free to explore, share feedback, or suggest ideas. While this repository is
 
 ---
 
-### Thank you for visiting the Rosa Anime Girl repository! 🎉
-
+### Thank you for visiting the Rosa Anime Character Repository! 🎉
