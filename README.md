@@ -53,7 +53,7 @@ Curious about Darius? Check out the project here: [Darius Male Hero Sculpt](http
 - **Key Milestones**:
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
-  - Access any related files, references, or additional materials.
+  - Access to any related files, references, or additional materials if and when available.
 
 ---
 
