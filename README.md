@@ -8,6 +8,9 @@ _Project Progress_: **[Rosa Progress](https://github.com/users/ux-fran/projects/
 
 This repository documents the creation of **Rosa**, a 3D modeled anime character inspired by [Grant Abbitt's Anime Character Course](https://www.youtube.com/watch?v=KckpKgQjfyc). Rosa was given my own creative twist, focusing on character modeling, topology, UV unwrapping, and texturing. Here, you'll find everything related to this project—from progress updates to resources and the final render!
 
+## ❓ Questions?
+If you have any questions about this project, feel free to ask them in the [Q&A Discussion](https://github.com/ux-fran/rosa-anime-character-repo/discussions)! 💬
+
 ---
 
 ## 🖼️ Final Render
